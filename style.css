@@ -31,6 +31,7 @@ button {
     display: flex;
     align-items: center;
     gap: 13px;
+    cursor: pointer;
 }
 
 #form-habits {
@@ -84,10 +85,8 @@ input:checked {
     border: 2px solid #27272a;
     background-color: #8b5cf6;
 }
-@media (max-width:570px){
-    
-    button div{
+@media (max-width: 570px) {
+    button div {
         display: none;
     }
-    
 }
