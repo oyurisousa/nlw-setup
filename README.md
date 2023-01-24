@@ -35,12 +35,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é uma app para ajudar a rastrear os hábitos diários.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://oyurisousa.github.io/nlw-setup/)
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
