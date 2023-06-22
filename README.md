@@ -35,5 +35,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é uma app para ajudar a rastrear os hábitos diários.
 
-- [Acesse o projeto finalizado, online](https://oyurisousa.github.io/nlw-setup/)
+- [Acesse o projeto finalizado, online](https://nlw-setup-sable.vercel.app/)
 
